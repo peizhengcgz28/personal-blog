@@ -85,7 +85,11 @@
     border-radius: 4px;
     font-weight: bold;
   }
-  
+
+  .highlightCta p{
+    color: black;
+  }
+
   .highlightCta a {
     color: #e67e22;
     font-weight: bold;
